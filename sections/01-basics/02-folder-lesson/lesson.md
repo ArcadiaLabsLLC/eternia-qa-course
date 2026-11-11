@@ -1,12 +1,12 @@
-# A lesson folder
+# The second lesson folder
 
-This lesson is a **QA fixture** too. It is a folder holding `index.html` and
-`lesson.md` — the course repo format's second shape (v2) — and Eternia draws
-the folder's `index.html` as a Template.
+This lesson is a **QA fixture** too: a second folder with its own
+`index.html` and `lesson.md`, so moving from one lesson to the next can be
+checked.
 
 ## What to look for
 
 - this text comes from `lesson.md`, named by `index.html`
-- headings, lists and `inline code` read like the Markdown lesson's
+- headings, lists and `inline code` read like the first lesson's
 
 That is the whole lesson.

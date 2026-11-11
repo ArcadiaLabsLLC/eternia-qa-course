@@ -1,7 +1,8 @@
-# A Markdown lesson
+# The first lesson folder
 
-This lesson is a **QA fixture**. It is one Markdown file, the course repo
-format's first shape (v1), and Eternia draws it through its lesson converter.
+This lesson is a **QA fixture**. It is a folder holding `index.html` and
+`lesson.md` — the course repo format (v2) — and Eternia draws the folder's
+`index.html` as a Template.
 
 ## What to look for
 
@@ -21,7 +22,7 @@ a code block
 
 | Column | Value |
 | ------ | ----- |
-| shape  | v1    |
-| body   | Markdown |
+| shape  | lesson folder |
+| body   | lesson.md |
 
 That is the whole lesson.
