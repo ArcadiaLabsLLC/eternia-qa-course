@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "course_public_id": "871a1ca6-5ea5-4e57-8dd4-ae7bdc67c0eb",
+  "title": "Eternia QA — Git Course",
+  "slug": "eternia-qa-git-course",
+  "canonical_source_url": "https://github.com/ArcadiaLabsLLC/eternia-qa-course",
+  "license": "cc_by",
+  "language": "en",
+  "description_md": "A QA fixture course for Eternia staging: one Markdown lesson and one lesson folder. Not a real course.",
+  "sections": [
+    {
+      "public_id": "6f359c1b-1aef-4197-a9d8-ebddd8ad5eb2",
+      "kind": "session",
+      "ordinal": 0,
+      "slug": "basics",
+      "title": "Basics"
+    }
+  ],
+  "lessons": [
+    {
+      "public_id": "5871acea-deec-43a0-b729-a98db609bb8b",
+      "section_public_id": "6f359c1b-1aef-4197-a9d8-ebddd8ad5eb2",
+      "ordinal": 0,
+      "kind": "rich_page",
+      "role": "instruction",
+      "title": "A Markdown lesson",
+      "path": "sections/01-basics/01-markdown-lesson.md"
+    },
+    {
+      "public_id": "de47dfc6-8d22-41f0-a4b0-1a7c5bca5f5f",
+      "section_public_id": "6f359c1b-1aef-4197-a9d8-ebddd8ad5eb2",
+      "ordinal": 1,
+      "kind": "rich_page",
+      "role": "instruction",
+      "title": "A lesson folder",
+      "path": "sections/01-basics/02-folder-lesson"
+    }
+  ]
+}
